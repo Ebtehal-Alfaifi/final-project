@@ -36,13 +36,8 @@
 
 ---
 
-## Links
-- [ Figma](#)
-
-- [Postman API](#)
 
 ---
-
 ### صفقتنا | Delify
 
 "Delify | صفقتنا" هي منصة مبتكرة تتيح للمستخدمين شراء المنتجات بأسعار مخفضة من خلال تجمع عدد كافٍ من المشاركين في نفس الصفقة.
@@ -89,6 +84,9 @@
 - [Figma Design](https://www.figma.com/design/kUyt9oIMPtgUqbXLnBDkS3/Dealify?node-id=0-1&t=GhXfJIKfyUDjqQfR-1)
 
 - [Postman API](https://documenter.getpostman.com/view/39709967/2sAYJAdGzY)
+
+![image](https://github.com/user-attachments/assets/c30739b6-0ed3-4874-879c-2687acff1d5b)
+
 
   ---
 ##MyWork
