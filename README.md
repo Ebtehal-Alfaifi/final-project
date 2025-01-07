@@ -99,6 +99,12 @@
 
 -MyUser
 
+
+##JunitTest
+---
+-VendorServiceTest
+--deleteCategoryTest(controllerTes)
+
 //Extra EndPoint	
 
 
