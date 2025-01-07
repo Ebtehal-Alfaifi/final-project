@@ -83,3 +83,47 @@
 - [Figma Design](https://www.figma.com/design/kUyt9oIMPtgUqbXLnBDkS3/Dealify?node-id=0-1&t=GhXfJIKfyUDjqQfR-1)
 
 - [Postman API](https://documenter.getpostman.com/view/39709967/2sAYJAdGzY)
+
+  ---
+##MyWork
+---
+  -MODEL-DTO-in/out/service/Controller/Repository
+  
+-Vendor
+
+-vendorProfile
+
+-Customer
+
+-Custoomer Profile
+
+-MyUser
+
+//Extra EndPoint	
+
+
+-Add review to product--
+
+-Add review to vendor--
+
+-Get vendor reviews-- to se spesfic information
+
+-Pay with points 
+
+-Get products by category(customer)
+
+-getLowStockProducts(vendor)
+
+-get vendor by city<– for customer
+
+-get  product by min max price ()
+
+-get vendor by id to see specific information
+
+-get vendor product by id(Customer)
+
+-reject pardon request
+
+-remove customer from blacklist
+
+-send invite for deal
