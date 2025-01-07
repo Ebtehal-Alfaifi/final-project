@@ -78,10 +78,12 @@
 - تقييم العملاء.
 
 ---
-##UseCase Digram
+## UseCase Digram
 ![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/6046bbc2-66db-4a01-b1cd-1cb53fc84890)
 
 ---
+
+## C
 
 ## Links
 - [Figma Design](https://www.figma.com/design/kUyt9oIMPtgUqbXLnBDkS3/Dealify?node-id=0-1&t=GhXfJIKfyUDjqQfR-1)
@@ -102,6 +104,11 @@
 -Custoomer Profile
 
 -MyUser
+-(Vendor review Service /DTO/in/out)
+-(Vendor review Controller)
+
+
+-Email Service
 
 
 ##JunitTest
@@ -131,8 +138,6 @@
 -get vendor by id to see specific information
 
 -get vendor product by id(Customer)
-
--reject pardon request
 
 -remove customer from blacklist
 
