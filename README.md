@@ -78,6 +78,10 @@
 - تقييم العملاء.
 
 ---
+##UseCase Digram
+![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/6046bbc2-66db-4a01-b1cd-1cb53fc84890)
+
+---
 
 ## Links
 - [Figma Design](https://www.figma.com/design/kUyt9oIMPtgUqbXLnBDkS3/Dealify?node-id=0-1&t=GhXfJIKfyUDjqQfR-1)
