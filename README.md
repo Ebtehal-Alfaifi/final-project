@@ -80,6 +80,6 @@
 ---
 
 ## Links
-- [Figma Design](#)
-- [Presentation](#)
-- [Postman API](#)
+- [Figma Design](https://www.figma.com/design/kUyt9oIMPtgUqbXLnBDkS3/Dealify?node-id=0-1&t=GhXfJIKfyUDjqQfR-1)
+
+- [Postman API](https://documenter.getpostman.com/view/39709967/2sAYJAdGzY)
