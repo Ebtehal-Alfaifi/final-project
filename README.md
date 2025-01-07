@@ -1,48 +1,104 @@
-Delify | صفقتنا
-English Version
-"Delify | صفقتنا" is an innovative platform that allows users to purchase products at discounted prices through collective purchasing. By gathering enough participants for the same deal, users enjoy reduced prices while merchants benefit from bulk orders and increased visibility.
+Final Project - E-commerce Platform
 
-Key Objectives
-For Users:
-Provide access to discounted prices through group purchasing.
-Ensure a seamless and reliable shopping experience.
-For Merchants:
-Increase profits by consolidating bulk orders.
-Enhance visibility and promote products effectively.
-Target Audience
-Individuals:
-Shoppers seeking exclusive deals and affordable prices.
-Merchants:
-Sellers looking to showcase and sell their products effectively through bulk deals.
-How It Works
-Users browse deals and can:
-Join an existing deal.
-Create a new deal for others to join.
-Once enough participants are gathered for a deal:
-The purchase is completed at the discounted price.
-Merchants fulfill the bulk orders, ensuring efficient stock management and customer satisfaction.
-Arabic Version
-"Delify | صفقتنا" هي منصة مبتكرة تتيح للمستخدمين شراء المنتجات بأسعار مخفضة من خلال الشراء الجماعي. عند تجميع عدد كافٍ من المشاركين في نفس الصفقة، يحصل المستخدمون على خصومات كبيرة، ويستفيد التجار من الطلبات الكبيرة وزيادة ظهور منتجاتهم.
+Project Description
 
-الأهداف الرئيسية
-للمستخدمين:
-تقديم خصومات مميزة عبر الصفقات الجماعية.
-ضمان تجربة تسوق سلسة وموثوقة.
-للتجار:
-زيادة الأرباح من خلال تجميع الطلبات بكميات كبيرة.
-تعزيز ظهور المنتجات والترويج لها بشكل فعّال.
-الشريحة المستهدفة
-الأفراد:
-المتسوقون الباحثون عن صفقات مميزة وأسعار تنافسية.
-التجار:
-البائعون الذين يرغبون في عرض منتجاتهم وبيعها بفعالية من خلال صفقات جماعية.
-آلية العمل
-يقوم المستخدمون بتصفح الصفقات المتاحة ويمكنهم:
-الانضمام إلى صفقة قائمة.
-إنشاء صفقة جديدة يشارك فيها الآخرون.
-عند تجميع العدد الكافي من المشاركين:
-يتم إتمام الصفقة بالسعر المخفض.
-يقوم التجار بتنفيذ الطلبات المجمعة، مما يساهم في إدارة فعّالة للمخزون وزيادة رضا العملاء.
+This project is an advanced e-commerce platform that provides users with a wide range of features to enhance their shopping and selling experiences. The platform caters to three main roles:
+
+Customer: Browses and purchases products, manages orders, and provides feedback.
+
+Vendor: Manages products, inventory, and reviews.
+
+Admin: Oversees product categories and activates vendor accounts.
+
+Key Features
+
+Customer Features
+
+Register/Login
+
+Browse Products and Deals
+
+Manage Deals
+
+Rate Products
+
+Rate Vendors/Customers
+
+Manage Reviews
+
+Request Product Return
+
+Request Blacklist Pardon
+
+View My Blacklist
+
+View My Pardon Requests
+
+Manage Favorite Products
+
+Pay with Points
+
+Manage Profile
+
+Logout
+
+Vendor Features
+
+Register/Login
+
+Add Products
+
+Manage Inventory
+
+Rate Customers
+
+Manage Reviews on Customers
+
+Manage Profile
+
+Logout
+
+Admin Features
+
+Manage Product Categories
+
+Activate Vendor Accounts
+
+Use Case Diagram
+
+
+
 Links
-LinkedIn
-Figma
+
+Figma Design
+
+LinkedIn Profile
+
+My Work
+
+In this project, I have contributed to the following features and functionalities:
+
+Customer Features:
+
+Implemented the feature to browse products and deals.
+
+Developed the functionality for rating vendors and customers.
+
+Built the "Manage Favorite Products" module, enabling customers to save and organize their favorite items.
+
+Vendor Features:
+
+Created the module for managing inventory, including adding, updating, and removing products.
+
+Implemented the feature to manage reviews on customers.
+
+Admin Features:
+
+Developed the functionality to manage product categories.
+
+Built the system for activating vendor accounts.
+
+About
+
+This project aims to create a unified platform for customers, vendors, and administrators, ensuring a seamless and engaging experience for all stakeholders in the e-commerce ecosystem.
+
