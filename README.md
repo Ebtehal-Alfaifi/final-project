@@ -1,104 +1,85 @@
-Final Project - E-commerce Platform
+# FinalProject
 
-Project Description
+# Delify | صفقتنا
 
-This project is an advanced e-commerce platform that provides users with a wide range of features to enhance their shopping and selling experiences. The platform caters to three main roles:
+*"Delify | صفقتنا"* is an innovative platform that offers users the opportunity to purchase products at discounted prices by gathering a sufficient number of participants for the same deal.
 
-Customer: Browses and purchases products, manages orders, and provides feedback.
+---
 
-Vendor: Manages products, inventory, and reviews.
+## Objective
+- Enable users to enjoy reduced prices through collective purchasing.
+- Provide a seamless and reliable shopping experience.
+- Increase merchants' profits by consolidating large orders.
 
-Admin: Oversees product categories and activates vendor accounts.
+---
 
-Key Features
+## Target Audience
+- Individuals seeking significant deals and offers.
+- Merchants looking to showcase and sell their products efficiently.
 
-Customer Features
+---
 
-Register/Login
+## User Flow
 
-Browse Products and Deals
+### Registered Users
+- Track their deals.
+- Create or join deals.
+- Review products, merchants, or other users they have participated with in deals.
+- Request to be removed from the blocklist.
+- Submit product return requests with reasons.
 
-Manage Deals
+### Merchants
+- Add new products.
+- Add or remove users from the blocklist (Blocklist Management).
+- Approve or reject return requests (Return Management).
+- Rate customers.
 
-Rate Products
+---
 
-Rate Vendors/Customers
+## Links
+- [ Figma](#)
 
-Manage Reviews
+- [Postman API](#)
 
-Request Product Return
+---
 
-Request Blacklist Pardon
+### صفقتنا | Delify
 
-View My Blacklist
+"Delify | صفقتنا" هي منصة مبتكرة تتيح للمستخدمين شراء المنتجات بأسعار مخفضة من خلال تجمع عدد كافٍ من المشاركين في نفس الصفقة.
 
-View My Pardon Requests
+---
 
-Manage Favorite Products
+## الأهداف
+- تمكين المستخدمين من الحصول على خصومات كبيرة عبر الشراء الجماعي.
+- توفير تجربة تسوق سلسة وموثوقة.
+- زيادة أرباح التجار عبر تجميع طلبات كبيرة.
 
-Pay with Points
+---
 
-Manage Profile
+## الشريحة المستهدفة
+- الأفراد الباحثين عن صفقات وعروض مميزة.
+- التجار الراغبين في عرض وبيع منتجاتهم بفعالية.
 
-Logout
+---
 
-Vendor Features
+## تدفق المستخدمين
 
-Register/Login
+### المستخدمون المسجلون
+- متابعة صفقاتهم.
+- إنشاء صفقة أو الانضمام إلى صفقات قائمة.
+- تقييم المنتجات، البائعين، أو المستخدمين الذين شاركوا معهم في الصفقات.
+- طلب إزالة من القائمة السوداء.
+- تقديم طلبات إرجاع المنتجات مع ذكر الأسباب.
 
-Add Products
+### التجار
+- إضافة منتجات جديدة.
+- إضافة أو إزالة المستخدمين من القائمة السوداء (إدارة القائمة السوداء).
+- قبول أو رفض طلبات الإرجاع (إدارة الطلبات).
+- تقييم العملاء.
 
-Manage Inventory
+---
 
-Rate Customers
-
-Manage Reviews on Customers
-
-Manage Profile
-
-Logout
-
-Admin Features
-
-Manage Product Categories
-
-Activate Vendor Accounts
-
-Use Case Diagram
-
-
-
-Links
-
-Figma Design
-
-LinkedIn Profile
-
-My Work
-
-In this project, I have contributed to the following features and functionalities:
-
-Customer Features:
-
-Implemented the feature to browse products and deals.
-
-Developed the functionality for rating vendors and customers.
-
-Built the "Manage Favorite Products" module, enabling customers to save and organize their favorite items.
-
-Vendor Features:
-
-Created the module for managing inventory, including adding, updating, and removing products.
-
-Implemented the feature to manage reviews on customers.
-
-Admin Features:
-
-Developed the functionality to manage product categories.
-
-Built the system for activating vendor accounts.
-
-About
-
-This project aims to create a unified platform for customers, vendors, and administrators, ensuring a seamless and engaging experience for all stakeholders in the e-commerce ecosystem.
-
+## Links
+- [Figma Design](#)
+- [Presentation](#)
+- [Postman API](#)
