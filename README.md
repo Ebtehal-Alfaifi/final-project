@@ -75,6 +75,7 @@ Dealify connects users and vendors in a unified platform, creating a collaborati
 - [Postman API](https://documenter.getpostman.com/view/39709967/2sAYJAdGzY)
 
 ![image](https://github.com/user-attachments/assets/c30739b6-0ed3-4874-879c-2687acff1d5b)
+-[deployment] (link http://dealify-env.eba-quip7bd8.eu-central-1.elasticbeanstalk.com/)
 
 
   ---
@@ -131,6 +132,4 @@ Dealify connects users and vendors in a unified platform, creating a collaborati
 
 -send invite for deal
 
--Deployement link 
 
-http://dealify-env.eba-quip7bd8.eu-central-1.elasticbeanstalk.com/
